@@ -1,0 +1,6 @@
+{
+  "name": "NFA to DFA Visualizer",
+  "description": "A visualization tool that demonstrates the subset construction method used to convert an NFA into an equivalent DFA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
