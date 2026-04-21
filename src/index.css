@@ -1,4 +1,4 @@
-@import "tailwindcss";
+/* @import "tailwindcss";
 @import "tw-animate-css";
 @import "shadcn/tailwind.css";
 /* @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;600;700&display=swap'); */
@@ -96,4 +96,13 @@
   html {
     @apply font-sans;
     }
+} */
+
+body {
+  margin: 0;
+  font-family: Roboto, sans-serif;
+  -webkit-font-smoothing: antialiased;
 }
+
+.react-flow__renderer { border-radius: 8px; }
+.react-flow__attribution { display: none !important; }
