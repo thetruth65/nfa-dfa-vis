@@ -9,8 +9,8 @@ const ProjectOfPage: React.FC = () => (
         <Avatar sx={{ width: 80, height: 80, mb: 2, bgcolor: 'primary.main' }}>
           <HubIcon sx={{ fontSize: 40 }} />
         </Avatar>
-        <Typography variant="h4">Your Name</Typography>
-        <Typography variant="subtitle1" color="text.secondary">Roll No: XXXX</Typography>
+        <Typography variant="h4">Mohit Sharma</Typography>
+        <Typography variant="subtitle1" color="text.secondary">Roll No: 2024UCD2168</Typography>
       </Box>
 
       <Divider sx={{ mb: 3 }} />
@@ -30,7 +30,7 @@ const ProjectOfPage: React.FC = () => (
         </Box>
         <Box>
           <Typography variant="overline" color="text.secondary">Institution</Typography>
-          <Typography variant="body1">Your University</Typography>
+          <Typography variant="body1">NSUT</Typography>
         </Box>
         <Box>
           <Typography variant="overline" color="text.secondary">Tech Stack</Typography>
